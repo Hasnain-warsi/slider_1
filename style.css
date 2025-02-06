@@ -306,3 +306,8 @@ header a{
         font-size: 30px;
     }
 }
+
+.item{
+    height: 200px;
+    width: 200px;
+}
